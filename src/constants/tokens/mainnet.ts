@@ -73,6 +73,7 @@ export default [
   new Token(ChainId.MAINNET, '0xec67005c4E498Ec7f55E092bd1d35cbC47C91892', 18, 'MLN', 'Melon Token'),
   new Token(ChainId.MAINNET, '0x957c30aB0426e0C93CD8241E2c60392d08c6aC8e', 0, 'MOD', 'Modum Token'),
   new Token(ChainId.MAINNET, '0xe2f2a5C287993345a840Db3B0845fbC70f5935a5', 18, 'mUSD', 'mStable USD'),
+  new Token(ChainId.MAINNET, '0x09Ccd2DA5dCDd0510268d4979e792381337138b8', 18, 'NBOT', 'Bodhi Token'),
   new Token(ChainId.MAINNET, '0xB62132e35a6c13ee1EE0f84dC5d40bad8d815206', 18, 'NEXO', 'Nexo'),
   new Token(ChainId.MAINNET, '0x1776e1F26f98b1A5dF9cD347953a26dd3Cb46671', 18, 'NMR', 'Numeraire'),
   new Token(ChainId.MAINNET, '0x985dd3D42De1e256d09e1c10F112bCCB8015AD41', 18, 'OCEAN', 'OceanToken'),
